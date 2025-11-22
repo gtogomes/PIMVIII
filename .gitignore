@@ -1,0 +1,43 @@
+###############################
+# .NET / API / MAUI
+###############################
+
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.config
+*.db
+*.jfm
+*.log
+*.pdb
+
+# Credenciais
+secrets.json
+appsettings.Development.json
+
+###############################
+# ANDROID STUDIO
+###############################
+
+.gradle/
+.idea/
+*.iml
+*.apk
+*.aab
+*.log
+captures/
+local.properties
+**/build/
+
+###############################
+# GENERAL
+###############################
+
+Thumbs.db
+*.tmp
+*.zip
+*.rar
+*.7z
+*.DS_Store

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+    <!-- Paleta roxa -->
+    <Color x:Key="PrimaryColor">#6C63FF</Color>
+    <Color x:Key="PrimaryDark">#4B42CC</Color>
+    <Color x:Key="PrimaryLight">#A29BFF</Color>
+
+    <!-- Fundo e textos -->
+    <Color x:Key="BackgroundColor">#F4F4FA</Color>
+    <Color x:Key="CardBackground">#FFFFFF</Color>
+    <Color x:Key="TextColor">#2C2C2C</Color>
+    <Color x:Key="TextSecondary">#6A6A6A</Color>
+
+    <LinearGradientBrush x:Key="PrimaryGradient" StartPoint="0,0" EndPoint="1,1">
+        <GradientStop Color="#7A5CFF" Offset="0.0" />
+        <GradientStop Color="#6C63FF" Offset="0.5" />
+        <GradientStop Color="#4B42CC" Offset="1.0" />
+    </LinearGradientBrush>
+
+    <LinearGradientBrush x:Key="BackgroundGradient" StartPoint="0,0" EndPoint="0,1">
+        <GradientStop Color="#F4F4FA" Offset="0.0" />
+        <GradientStop Color="#E8E6FF" Offset="1.0" />
+    </LinearGradientBrush>
+
+
+</ResourceDictionary>

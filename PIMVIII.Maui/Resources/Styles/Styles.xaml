@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+    <!-- ====== PÁGINA ====== -->
+    <Style TargetType="ContentPage">
+        <Setter Property="Background" Value="{StaticResource BackgroundGradient}" />
+        <Setter Property="Padding" Value="25" />
+    </Style>
+
+    <!-- ====== TÍTULOS ====== -->
+    <Style x:Key="TitleLabel" TargetType="Label">
+        <Setter Property="FontSize" Value="34" />
+        <Setter Property="FontAttributes" Value="Bold" />
+        <Setter Property="TextColor" Value="{StaticResource PrimaryDark}" />
+        <Setter Property="HorizontalOptions" Value="Center" />
+        <Setter Property="Margin" Value="0,20,0,25" />
+    </Style>
+
+    <Style x:Key="SubtitleLabel" TargetType="Label">
+        <Setter Property="FontSize" Value="18" />
+        <Setter Property="TextColor" Value="{StaticResource TextSecondary}" />
+    </Style>
+
+    <!-- ====== BOTÕES PREMIUM ====== -->
+    <Style TargetType="Button">
+        <Setter Property="Background" Value="{StaticResource PrimaryGradient}" />
+        <Setter Property="TextColor" Value="White" />
+        <Setter Property="CornerRadius" Value="14" />
+        <Setter Property="Padding" Value="18,10" />
+        <Setter Property="FontSize" Value="18" />
+        <Setter Property="HeightRequest" Value="55" />
+        <Setter Property="Shadow">
+            <Shadow Brush="#50000000" Radius="10" Opacity="0.4" />
+        </Setter>
+    </Style>
+
+    <!-- ====== CARDS ====== -->
+    <Style x:Key="CardContainer" TargetType="Frame">
+        <Setter Property="BackgroundColor" Value="White" />
+        <Setter Property="CornerRadius" Value="16" />
+        <Setter Property="Padding" Value="20" />
+        <Setter Property="HasShadow" Value="True" />
+        <Setter Property="Shadow">
+            <Shadow Brush="#30000000" Radius="18" />
+        </Setter>
+    </Style>
+
+</ResourceDictionary>

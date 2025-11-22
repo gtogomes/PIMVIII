@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gustavo.oliveira\\PIMVIII\\PIMVIII.Maui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8202BB4-75FD-6E2B-E1F7-BF6CA8E6FE8A}|PIMVIII.Maui.csproj|c:\\users\\gustavo.oliveira\\pimviii\\pimviii.maui\\views\\uploadpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8202BB4-75FD-6E2B-E1F7-BF6CA8E6FE8A}|PIMVIII.Maui.csproj|solutionrelative:views\\uploadpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UploadPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gustavo.oliveira\\PIMVIII\\PIMVIII.Maui\\Views\\UploadPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\UploadPage.xaml.cs",
+              "ToolTip": "C:\\Users\\gustavo.oliveira\\PIMVIII\\PIMVIII.Maui\\Views\\UploadPage.xaml.cs",
+              "RelativeToolTip": "Views\\UploadPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:37:24.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

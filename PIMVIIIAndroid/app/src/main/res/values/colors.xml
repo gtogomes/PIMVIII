@@ -1,0 +1,10 @@
+<resources>
+    <color name="purple_600">#6C63FF</color>
+    <color name="purple_700">#4B42CC</color>
+    <color name="purple_900">#3A2F9B</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#141414</color>
+    <color name="text_secondary">#6A6A6A</color>
+    <color name="bottom_nav_bg">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+</resources>
